@@ -34,3 +34,19 @@
 
 **リンク**
 1. [Demo Site](https://master.d1jfvnt5y0zx5l.amplifyapp.com/)
+
+### 4日目: 2020年6月17日
+
+**今日の進捗**: Component Lifecycleを理解するためのDemoを作った（React)
+
+**思ったこと**: クラスコンポーネントがマウントされる時に実行される関数をしったが，まだ利用イメージがピンときていない．
+
+**リンク**
+1. [Demo Site](https://master.d1jfvnt5y0zx5l.amplifyapp.com/)
+
+### 5日目: 2020年6月18日
+
+**今日の進捗**: Component Lifecycleの続き．
+
+**思ったこと**: コンポーネントがre-renderingされる時のメソッドを知る． + React Hooks のuseEffectメソッドを使った
+処理の最適化を知る．
